@@ -1,3 +1,4 @@
 var nombre="maira"
 var apellido="torres"
-alert("hola "+nombre+" "+apellido)
+alert("Hola " +  nombre+" "+apellido)
+console.log("hola guapos ya subi correctamente el cambio")
